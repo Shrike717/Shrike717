@@ -1,3 +1,43 @@
+### Hello, I'm Daniel 👋
+
+**Junior Web Developer | Full-Stack Developer from Munich**
+
+After an initial career in photography | digital post-production, I decided to dive into the exciting world of full-stack web development.
+
+**Technical Training and Skills:**
+
+- **Bootcamp at LeWagon in Munich:** Here, I learned the fundamentals of web development and created my first interactive digital projects.
+- **DevCraft Academy:** To further expand my knowledge and meet the constantly evolving demands of the tech landscape, I am currently undergoing intensive training at DevCraft Academy.
+- **Self-Study:** Additionally, I have deepened my knowledge by working through online courses and creating complex web applications with the help of tutorials.
+
+**Technologies and Tools:**
+
+- **Frontend:** HTML, CSS, JavaScript, React, NextJS
+- **Backend:** Node.js, Express.js, Ruby on Rails
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, GitHub
+
+**Projects:**
+
+- **[DevFlow](https://github.com/Shrike717/NEXTJS-JSM-ULTIMATE-NEXT--COURSE-JS-MASTERY):** DevFlow is an online platform for developer knowledge. [Live Demo](https://nextjs-jsm-ultimate-next-course-js-mastery.vercel.app/)
+- **[Place-To-Stay](https://github.com/Shrike717/MERN-PLACE-TO-STAY):** Travel Couch Surfing App to find accommodation worldwide. [Live Demo](https://mern-place-to-stay-client.vercel.app/)
+- **[Project 3](https://github.com/deinbenutzername/projekt3):** A social media app with real-time chat functionality. [Live Demo](https://example.com/project3)
+
+I am excited about new challenges and look forward to demonstrating my skills as a junior developer in an innovative team.
+
+**More about me:**
+
+When I'm not coding, you can probably find me exploring nature, whether it's hiking, biking, or practicing archery.
+
+**Contact me:**
+
+- **[LinkedIn](https://www.linkedin.com/in/daniel-bauer-munich/)**
+- **[Email](mailto:info@danielbauer.dev)**
+
+
+
+<!---
+
 ### Hallo, ich bin Daniel 👋
 
 **Junior-Webentwickler | Full-Stack Developer aus München**
@@ -35,7 +75,7 @@ Wenn ich nicht gerade code schreibe, bin ich wahrscheinlich in der Natur unterwe
 
 - **[LinkedIn](https://www.linkedin.com/in/daniel-bauer-munich/)**
 - **[E-Mail](mailto:info@danielbauer.dev)**
-
+-->
 
 <!--
 **Shrike717/Shrike717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
