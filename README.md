@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Hallo, ich bin Daniel 👋
 
 **Junior-Webentwickler | Full-Stack Developer aus München**
@@ -25,7 +23,7 @@ Nach einer ersten Karriere im Bereich Fotografie | digitale Postproduktion habe 
  [Live Demo](https://nextjs-jsm-ultimate-next-course-js-mastery.vercel.app/)
 - **[Place-To-Stay](https://github.com/Shrike717/MERN-PLACE-TO-STAY):** Travel Couch Surfing App um weltweit Unterkünfte zu finden.
 [Live Demo](https://mern-place-to-stay-client.vercel.app/)
-- **[Projekt 3](https://github.com/deinbenutzername/projekt3):** Eine Social Media App mit Echtzeit-Chat-Funktion. [Live Demo](https://example.com/project3)
+
 
 Ich freue mich auf neue Herausforderungen und darauf, meine Fähigkeiten als Junior-Entwickler in einem innovativen Team unter Beweis zu stellen.
 
