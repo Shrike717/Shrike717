@@ -21,7 +21,6 @@ After an initial career in photography | digital post-production, I decided to d
 
 - **[DevFlow](https://github.com/Shrike717/NEXTJS-JSM-ULTIMATE-NEXT--COURSE-JS-MASTERY):** DevFlow is an online platform for developer knowledge. [Live Demo](https://nextjs-jsm-ultimate-next-course-js-mastery.vercel.app/)
 - **[Place-To-Stay](https://github.com/Shrike717/MERN-PLACE-TO-STAY):** Travel Couch Surfing App to find accommodation worldwide. [Live Demo](https://mern-place-to-stay-client.vercel.app/)
-- **[Project 3](https://github.com/deinbenutzername/projekt3):** A social media app with real-time chat functionality. [Live Demo](https://example.com/project3)
 
 I am excited about new challenges and look forward to demonstrating my skills as a junior developer in an innovative team.
 
