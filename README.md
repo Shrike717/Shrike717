@@ -12,8 +12,8 @@ After an initial career in photography | digital post-production, I decided to d
 
 **Technologies and Tools:**
 
-- **Frontend:** HTML, CSS, JavaScript, React, NextJS
-- **Backend:** Node.js, Express.js, Ruby on Rails
+- **Frontend:** HTML, CSS, JavaScript, React, NextJS, Gsap, ThreeJS
+- **Backend:** NodeJS, Express, Ruby on Rails
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, GitHub
 
