@@ -1,6 +1,6 @@
 ### Hello, I'm Daniel 👋
 
-**Junior Web Developer | Full-Stack Developer from Munich**
+**Junior Full-Stack Web Developer from Munich**
 
 After an initial career in photography | digital post-production, I decided to dive into the exciting world of full-stack web development.
 
